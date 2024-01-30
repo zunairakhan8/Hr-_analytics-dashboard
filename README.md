@@ -1,4 +1,4 @@
-# Hr-_analytics-dashboard 
+# Hr_analytics_dashboard 
 This HR Analytics project focuses on analyzing employee data to derive insights related to work hours, education, and key performance indicators. The iterative approach employed ensures continuous improvement in understanding workforce dynamics.
 
 Key Components:
